@@ -12,10 +12,10 @@
 `pip install opencv`
 
 
-### 运行
+#### 运行
 `python inference.py`
 
-### 训练
+#### 训练
 `python train.py --epocho=300 --train_path=/data/xxx`
 
 #### 本项目使用数据
