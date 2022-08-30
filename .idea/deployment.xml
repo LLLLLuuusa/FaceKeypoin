@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="root@region-3.autodl.com:54676" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="root@region-3.autodl.com:50946">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/root/autodl-tmp/faceKeypoin" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@region-3.autodl.com:54676">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/root/autodl-tmp/faceKeypoin" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
